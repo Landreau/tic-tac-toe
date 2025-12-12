@@ -2,7 +2,7 @@
 #define GAME_H
 
 #include <SFML/Graphics.hpp>
-#include <SFML/Audio.hpp>  // *** NOUVEAU ***
+#include <SFML/Audio.hpp>
 #include <vector>
 
 enum GameMode {
